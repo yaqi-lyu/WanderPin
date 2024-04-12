@@ -2,6 +2,9 @@
 
 Yaqi Lyu, Shiqing Pan
 
+# Link to the Demo Video:  
+https://youtu.be/bkJYNCjTLV4
+
 # Data Model and Collections
 
 Top level collections  
@@ -42,50 +45,4 @@ need enable Geocoding api and Places api in Google maps
   }  
 }  
 
-# Current State of the application·
 
-screenshot:
-https://ibb.co/f2dWgzq
-
-# Individual Contribution
-
-Iteration #1:  
-Shiqing Pan:  
-completed the Wishlist, WishNote, AddToList and CustomList screens with CRUD operations  
-completed layouts for these screens  
-implemented navigation for these screens  
-created other reusable components
-
-Yaqi Lyu:  
-completed the Visited, Visited Journal, Explore screens with CRUD operations  
-completed the Profile screen  
-completed basic layouts for these screens  
-implemented navigation for home and these screens
-
-Iteration #2:  
-Shiqing Pan:  
-Completed functionalities for the Map screen to get user location and allow user select location on the map  
-Allowed transformation between address and coordinates  
-Allowed list selection to show on the map further  
-Allowed location information passed to wishnote and journalnote  
-
-Yaqi Lyu:  
-Completed functions using cameras in the visited notes  
-Allowed users to add photos or take photos using their cameras  
-Set the first photo of the note as the thumbnail of note
-
-Iteration #3:  
-Shiqing Pan:  
-Completed the functionalities for authentication and notification  
-Updated the rules in firebase and adjusted the firebase helper functions  
-Updated styling for wishNote, Add to List and CustomList  
-Designed and add a welcome page for the app  
-
-Yaqi Lyu:  
-Updated the features for the Profile Screen  
-Updated styling for navigation, Visited Journal and Explore cards  
-Implemented the process of fetching data from the weather API, saving, updating and displaying weather information  
-Updated all user-related features, providing distinct actions based on different user roles
-
-# Link to the Demo Video:  
-https://youtu.be/bkJYNCjTLV4
